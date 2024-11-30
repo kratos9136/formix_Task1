@@ -1,0 +1,16 @@
+.form-group {
+    margin-bottom: 1rem;
+  }
+  .form-control {
+    width: 100%;
+    padding: 0.5rem;
+    font-size: 1rem;
+  }
+  .form-check {
+    margin-bottom: 0.5rem;
+  }
+  .invalid-feedback {
+    color: red;
+    font-size: 0.875rem;
+  }
+  
